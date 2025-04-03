@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tambeanuj123
-- 👀 I’m interested in ...Machine Learning, Automation
+- 👀 I’m interested in ... Backend Application , Microservices , AI (Cliche). 
 - 🌱 I’m currently learning ...Mostly anything
 - 💞️ I’m looking to collaborate on ... Internet of things , internet products
 - 📫 How to reach me ... tambeanuj@gmail.com
